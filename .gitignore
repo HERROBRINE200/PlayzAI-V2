@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+coverage
+.vite
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+*.egg-info
+.gradle
+build
+*.db
